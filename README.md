@@ -7,7 +7,7 @@ Bubble plot of the different rider types, regions, and fares.
 ![Images](Pyber_plot.png)
 
 Pie charts for distribution of fares and riders by city type.
-![Images](Fares_by_City_Type.png)
+![python_pyber/Images](Fares_by_City_Type.png)
 
 ![Images](Total_Rides_by_City_Type.png)
 
