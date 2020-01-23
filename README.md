@@ -3,7 +3,7 @@ What good is data without a good plot to tell the story? The ride sharing bonanz
 
 The sample dataset represents the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
-The objective is to build a [Bubble Plot](https://en.wikipedia.org/wiki/Bubble_chart) that showcases the relationship between four key variables:
+The objective is to build bubble plots that showcase the relationship between four key variables:
 
 * Average Fare ($) Per City
 * Total Number of Rides Per City
@@ -28,20 +28,16 @@ Pie charts for distribution of fares and riders by city type.
 ![Pyber_Rideshare](Images/Fares_by_City_Type.png)
 
 
-
+.
 ![Pyber_Rideshare](Images/Total_Rides_by_City_Type.png)
 
 
-
+.
 ![Pyber_Rideshare](Images/Total_Drivers_by_City_Type.png)  
 
 
 Libraries:
-matplotlib.pyplot
-pandas
-numpy
-os
+matplotlib.pyplot , pandas , numpy , os
 
 Also Used:
-Jupyter Notebook
-Plots with aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
+Jupyter Notebook, Plots with aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
